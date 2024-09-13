@@ -5,5 +5,5 @@
 
 
 
-<img src='[https://skillicons.dev/icons?i=androidstudio,figma,firebase,flutter,github,gitlab,java,notion,py,stackoverflow,vscode,dart](https://skillicons.dev/icons?i=androidstudio,figma,firebase,flutter,github,gitlab,java,notion,py,stackoverflow,vscode,dart&theme=light)'/>
+<img src='https://skillicons.dev/icons?i=androidstudio,figma,firebase,flutter,github,gitlab,java,notion,py,stackoverflow,vscode,dart&theme=light'/>
 </div> 
