@@ -1,4 +1,4 @@
 <div aling='center'>
-  <img src='./icon.png' alt='image'/>
+  <img src='./icoo.png' alt='image'/>
 
 </div> 
