@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://uploadb.me/i6em8o6e5kaa/icoo.png.html"  />
+  <img height="150" src="../icon.png"  />
 </div>
 
 ###
