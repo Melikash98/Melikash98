@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Melikash98/Melikash98/main/logoicon.png"  />
+  <img height="200" src="icoo.png"  />
 </div>
 
 ###
