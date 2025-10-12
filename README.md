@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/melika-shooryab" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/21997682/melika-shooryabi" target="_blank">
