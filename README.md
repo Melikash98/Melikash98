@@ -6,7 +6,7 @@
 
 <div align="left">
   <a href=".linkedin.com/in/melika-shooryab" target="_blank">
-    <img src="www.linkedin.com/in/melika-shooryab" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="melika.shooryabi98@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
