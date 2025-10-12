@@ -1,42 +1,54 @@
+<h2 align="center">Hey...</h2>
+
+###
+
 <div align="center">
-  <img height="150" src="[../icon.png](https://github.dev/Melikash98/Melikash98/blob/main/icoo.png)"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
-###
-
-<div align="left">
-  <a href=".linkedin.com/in/melika-shooryab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="melika.shooryabi98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21997682/melika-shooryabi?tab=profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">hey  world 👋</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  Senior Android application developer</h3>
+<p align="left">I’m a passionate Android and Flutter Developer with a strong focus on creating clean, efficient, and user-friendly mobile applications.<br>With nearly 4 years of hands-on experience, I’ve built and delivered multiple real-world projects — from native Android apps written in Java to cross-platform mobile solutions in Flutter.<br><br>I enjoy building apps that not only work well but also feel great to use.<br>My goal is to craft meaningful digital experiences — combining modern UI/UX, scalable architecture, and optimized performance.</p>
 
 ###
 
-<p align="left">I'm Melika Shooryabi  from  Qatar<br>🌱 I’m currently learning Flutter/ Figma<br>👨‍💻 All of my projects are available at  mshoryabidev.com<br>📫 How to reach me melika.shooryabi98@gmail.com <br>📄 Know about my experiences  mshoryabidev.com</p>
+<br clear="both">
+
+<h3 align="left">💻 What I Do !</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<br clear="both">
+
+<p align="left">- ** Android Development (Java, XML) - **  Building fast, stable, and secure Android apps with Firebase & REST APIs.<br><br>- **  Flutter Development (Dart) – Creating cross-platform apps for Android & iOS with responsive UIs.<br><br>- **  UI/UX Design Consulting – Turning concepts into polished, intuitive interfaces.<br><br>- **  Custom Android Libraries – Writing reusable tools like Editify, Adaptify, and Statusify to speed up development.</p>
 
 ###
 
 <div align="left">
+  <a href="www.linkedin.com/in/melika-shooryab" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21997682/melika-shooryabi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="42" height="30" alt="stackoverflow logo"  />
+  </a>
+  <a href="Melika.shooryabi98@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/melikodify?igsh=OXd3Y292ODE5MnJu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@MelCoderLife" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -45,24 +57,38 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=melikash98&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melikash98&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/melikash98/melikash98/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melikash98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 ###
