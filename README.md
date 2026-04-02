@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="icoo.png"  />
+  <img height="200" src="logo.png"  />
 </div>
 
 ###
