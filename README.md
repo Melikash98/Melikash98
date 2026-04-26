@@ -27,7 +27,7 @@ Passionate about turning ideas into reliable digital products.
 
 <h3 align="left">🌐 Connect With Me</h3>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td>
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
@@ -36,7 +36,7 @@ LinkedIn
 </a>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
 <td>
 <a href="https://stackoverflow.com/users/21997682/melika-shooryabi" target="_blank">
@@ -45,7 +45,7 @@ Stack Overflow
 </a>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
 <td>
 <a href="mailto:Melika.shooryabi98@gmail.com">
