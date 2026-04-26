@@ -30,7 +30,7 @@ Passionate about turning ideas into reliable digital products.
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td>
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
+<a href="https://www.linkedin.com/in/melika-shooryab" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="22" height="22" alt="linkedin" />
 LinkedIn
 </a>
