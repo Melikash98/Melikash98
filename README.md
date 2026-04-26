@@ -27,22 +27,22 @@ Passionate about turning ideas into reliable digital products.
 
 <h3 align="left">🌐 Connect With Me</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
+<div align="left" style="display:flex; align-items:center; gap:18px; flex-wrap:nowrap;">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="22" height="22" alt="linkedin" />
     LinkedIn
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/21997682/melika-shooryabi" target="_blank">
+
+  <a href="https://stackoverflow.com/users/21997682/melika-shooryabi" target="_blank" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="22" height="22" alt="stackoverflow" />
     Stack Overflow
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:Melika.shooryabi98@gmail.com">
+
+  <a href="mailto:Melika.shooryabi98@gmail.com" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="22" height="22" alt="gmail" />
     Email
   </a>
-</p>
+</div>
 
 ---
 
