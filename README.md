@@ -28,9 +28,17 @@ Passionate about turning ideas into reliable digital products.
 <h3 align="left">🌐 Connect With Me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">LinkedIn</a> ·
-  <a href="https://stackoverflow.com/users/21997682/melika-shooryabi" target="_blank">Stack Overflow</a> ·
-  <a href="mailto:Melika.shooryabi98@gmail.com">Gmail</a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="22" height="22" alt="linkedin" />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/21997682/melika-shooryabi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="22" height="22" alt="stackoverflow" />
+  </a>
+  
+  <a href="mailto:Melika.shooryabi98@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="22" height="22" alt="gmail" />
+  </a>
 </p>
 
 ---
