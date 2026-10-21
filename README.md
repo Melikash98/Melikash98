@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Melika 👋</h2>
 
 <div align="center">
-  <img height="200" src="logo.png" alt="Melika Logo" />
+  <img height="200" src="logo-upgerade-website.png" alt="Melika Logo" />
 </div>
 
 <br>
